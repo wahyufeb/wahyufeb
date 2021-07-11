@@ -54,11 +54,10 @@ I love exploring new tech stack or learning a new programming language 💻 and 
 <a href="https://github.com/wahyufeb">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=wahyufeb&show_icons=true&theme=radical&include_all_commits=true&count_private=true&show_owner=true" />
 </a>
-
-<br>
-
+&nbsp;
+&nbsp;
 <a href="https://github.com/wahyufeb">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahyufeb&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahyufeb&layout=compact" />
 </a>
 
 <br>
