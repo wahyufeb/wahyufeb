@@ -45,23 +45,20 @@ I love exploring new tech stack or learning a new programming language 💻 and 
   <img align="left" alt="Nuxt.js" height ="42px" src="https://nuxtjs.org/logos/nuxt.svg">
   <img align="left" alt="MySQL" height ="42px" src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png">
   <img align="left" alt="PostgreSQL" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png">
-  
-  
-<a href="https://git-scm.com/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> 
-</a>
-<a href="https://www.figma.com/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> 
-</a>
-
+  
 <br>
 
 ### 📊 Github Stats
 <a href="https://github.com/wahyufeb">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=wahyufeb&show_icons=true&theme=radical&include_all_commits=true&count_private=true&show_owner=true" />
 </a>
+
+<br>
+
 <a href="https://github.com/wahyufeb">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahyufeb&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahyufeb&layout=compact" />
 </a>
 
 <br>
