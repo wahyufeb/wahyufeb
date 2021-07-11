@@ -52,12 +52,14 @@ I love exploring new tech stack or learning a new programming language 💻 and 
 
 ### 📊 Github Stats
 <a href="https://github.com/wahyufeb">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=wahyufeb&show_icons=true&theme=radical&include_all_commits=true&count_private=true&show_owner=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wahyufeb&show_icons=true&theme=radical&include_all_commits=true&count_private=true&show_owner=true" />
 </a>
-&nbsp;
-&nbsp;
+
+<br>
+<br>
+
 <a href="https://github.com/wahyufeb">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahyufeb&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahyufeb&layout=compact" />
 </a>
 
 <br>
