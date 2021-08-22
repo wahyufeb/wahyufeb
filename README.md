@@ -17,7 +17,7 @@ I love exploring new tech stack or learning a new programming language 💻 and 
 <br>
 <br>
 
-<img align="right" alt="photo" src="https://wahyufebrianto.vercel.app/_nuxt/img/photo.09824ed.png" width="360px"/>
+<img align="right" alt="photo" src="https://wahyufebrianto.vercel.app/_nuxt/img/photo.09824ed.png" height="400px"/>
 
 <br>
   
