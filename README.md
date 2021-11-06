@@ -2,7 +2,7 @@
 <a href='https://www.linkedin.com/in/wahyufebrianto/'>
   <img align='left' alt="linkedin" src="https://image.flaticon.com/icons/png/512/1409/1409945.png" height='32px'/>
 </a>
-<a href='https://twitter.com/alexfebrian_'>
+<a href='https://twitter.com/codingjune'>
   <img align='left' alt="twitter" src="https://image.flaticon.com/icons/png/512/1409/1409937.png" height='32px'/>
 </a>
 <a href='https://www.instagram.com/lexbrian_/'>
