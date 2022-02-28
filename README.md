@@ -15,6 +15,7 @@
 <br>
 I love exploring new tech stack or learning a new programming language 💻 and leveraging them to build cool stuffs 🛠️. 
 <br>
+Visit my portfolio at : <a href="https://wahyufebrianto.vercel.app/" target="_blank">Wahyu Febrianto Portfolio</a>
 <br>
 
 <img align="right" alt="photo" src="https://wahyufebrianto.vercel.app/_nuxt/img/photo.09824ed.png" height="350px"/>
@@ -23,13 +24,13 @@ I love exploring new tech stack or learning a new programming language 💻 and 
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I’m currently working on **Traspac Makmur Sejahtera (Full-Time)** and **Pateron Indonesia (Part-Time)**
-- 🌱 &nbsp; I’m currently learning Typescript
+- 🔭 &nbsp; I’m currently working on **Devixel Indonesian Technology (Front-End)**
+- 🌱 &nbsp; I’m currently learning Typescript & Vue3 + Typescript
 - 🏓 &nbsp; I'm Table Tennis Player 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/wahyufeb?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/wahyufebrianto/)
-- 📚 &nbsp; When I am free, I learn Thailand Language
+- 📚 &nbsp; When I am free, I learn about new technology
 
 <br>
 
