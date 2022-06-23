@@ -1,5 +1,7 @@
-## Sawadee Krab 🙏, I'm Wahyu Febrianto! <img src="https://image.flaticon.com/icons/png/512/2151/2151329.png" width="32px"/>
-<a href='https://www.linkedin.com/in/wahyufebrianto/'>
+## Sawadee Krab 🙏, I'm Wahyu Febrianto! 
+<!-- <img src="https://image.flaticon.com/icons/png/512/2151/2151329.png" width="32px"/> -->
+
+<!-- <a href='https://www.linkedin.com/in/wahyufebrianto/'>
   <img align='left' alt="linkedin" src="https://image.flaticon.com/icons/png/512/1409/1409945.png" height='32px'/>
 </a>
 <a href='https://twitter.com/codingjune'>
@@ -7,7 +9,8 @@
 </a>
 <a href='https://www.instagram.com/lexbrian_/'>
   <img alt="instagram" src="https://image.flaticon.com/icons/png/512/1409/1409946.png" height='32px'/>
-</a>
+</a> -->
+
 <!-- <div>
   ***Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>***
 </div> -->
@@ -33,7 +36,7 @@ Visit my portfolio at : <a href="https://wahyufebrianto.vercel.app/" target="_bl
 - 📚 &nbsp; When I am free, I learn about new technology
 
 <br>
-
+<!-- 
 ### 🔨 Languages and Tools:
   <img align="left" src="https://image.flaticon.com/icons/png/512/1051/1051277.png" alt="html" height="42px"> 
   <img align="left" src="https://image.flaticon.com/icons/png/512/732/732190.png" alt="css" height="42px">
@@ -50,8 +53,9 @@ Visit my portfolio at : <a href="https://wahyufebrianto.vercel.app/" target="_bl
   <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> 
   
 <br>
-
-### 📊 Github Stats
+ -->
+ 
+<!-- ### 📊 Github Stats
 <a href="https://github.com/wahyufeb">
   <img src="https://github-readme-stats.vercel.app/api?username=wahyufeb&show_icons=true&theme=radical&include_all_commits=true&count_private=true&show_owner=true" />
 </a>
@@ -63,7 +67,11 @@ Visit my portfolio at : <a href="https://wahyufebrianto.vercel.app/" target="_bl
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahyufeb&layout=compact" />
 </a>
 
-<br>
+<br> -->
 
 <!-- Pinned repositories -->
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wahyufeb&repo=nuxt3-journey)](https://github.com/wahyufeb/nuxt3-journey)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wahyufeb&repo=html5-fighting-game)](https://github.com/wahyufeb/HTML5-fighting-game)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wahyufeb&repo=learn-typescript)](https://github.com/wahyufeb/learn-typescript)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wahyufeb&repo=vue3-jaksel-translate)](https://github.com/wahyufeb/vue3-jaksel-translate)
+
