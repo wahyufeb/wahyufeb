@@ -21,7 +21,7 @@ I love exploring new tech stack or learning a new programming language 💻 and 
 Visit my portfolio at : <a href="https://wahyufebrianto.vercel.app/" target="_blank">Wahyu Febrianto Portfolio</a>
 <br>
 
-<img align="right" alt="photo" src="https://wahyufebrianto.vercel.app/_nuxt/img/photo.09824ed.png" height="350px"/>
+<!-- <img align="right" alt="photo" src="https://wahyufebrianto.vercel.app/_nuxt/img/photo.09824ed.png" height="350px"/> -->
 
 <br>
   
@@ -35,8 +35,6 @@ Visit my portfolio at : <a href="https://wahyufebrianto.vercel.app/" target="_bl
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/wahyufebrianto/)
 - 📚 &nbsp; When I am free, I learn about new technology
 
-<br>
-<br>
 <br>
 <br>
 <!-- 
