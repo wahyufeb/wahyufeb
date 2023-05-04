@@ -71,8 +71,8 @@ Visit my portfolio at : <a href="https://wahyufebrianto.vercel.app/" target="_bl
 <br> -->
 
 <!-- Pinned repositories -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wahyufeb&repo=nuxt3-journey)](https://github.com/wahyufeb/nuxt3-journey)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wahyufeb&repo=html5-fighting-game)](https://github.com/wahyufeb/HTML5-fighting-game)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wahyufeb&repo=learn-typescript)](https://github.com/wahyufeb/learn-typescript)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wahyufeb&repo=vue3-jaksel-translate)](https://github.com/wahyufeb/vue3-jaksel-translate)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wahyufeb&repo=nuxt3-journey)](https://github.com/wahyufeb/nuxt3-journey) -->
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wahyufeb&repo=html5-fighting-game)](https://github.com/wahyufeb/HTML5-fighting-game) -->
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wahyufeb&repo=learn-typescript)](https://github.com/wahyufeb/learn-typescript) -->
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wahyufeb&repo=vue3-jaksel-translate)](https://github.com/wahyufeb/vue3-jaksel-translate) -->
 
