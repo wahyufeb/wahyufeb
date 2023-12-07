@@ -28,7 +28,7 @@ Visit my portfolio at : <a href="https://wahyufebrianto.vercel.app/" target="_bl
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently working on **Devixel Indonesian Technology (Front-End)**
-- 🌱 &nbsp; I’m currently learning Typescript & (Vue3 + Typescript) on **Web Development** & IOS Programming with Swift and SwiftUI on **Mobile Development**
+<!-- - 🌱 &nbsp; I’m currently learning Typescript & (Vue3 + Typescript) on **Web Development** & Rust -->
 - 🏓 &nbsp; I'm Table Tennis Player 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/wahyufeb?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
