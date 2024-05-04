@@ -1,4 +1,4 @@
-## Sawadee Krab 🙏, I'm Yuthanakorn Voravit Nuanchan aka. Alex Yu! 
+## Sawadee Krab 🙏, I'm Yuthanakorn Voravit Nuanchan! 
 <!-- <img src="https://image.flaticon.com/icons/png/512/2151/2151329.png" width="32px"/> -->
 
 <!-- <a href='https://www.linkedin.com/in/wahyufebrianto/'>
@@ -15,10 +15,11 @@
   ***Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>***
 </div> -->
 <br>
+You can call me <strong>Alex Yu</strong>.
 <br>
 I love exploring new tech stack or learning a new programming language 💻 and leveraging them to build cool stuffs 🛠️. 
 <br>
-Visit my portfolio at : <a href="https://wahyufebrianto.vercel.app/" target="_blank">Alex Yu Portfolio</a>
+Visit my portfolio <a href="https://wahyufebrianto.vercel.app/" target="_blank">here</a>
 <br>
 
 <!-- <img align="right" alt="photo" src="https://wahyufebrianto.vercel.app/_nuxt/img/photo.09824ed.png" height="350px"/> -->
