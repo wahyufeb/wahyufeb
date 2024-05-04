@@ -18,7 +18,7 @@
 <br>
 I love exploring new tech stack or learning a new programming language 💻 and leveraging them to build cool stuffs 🛠️. 
 <br>
-Visit my portfolio at : <a href="https://wahyufebrianto.vercel.app/" target="_blank">Wahyu Febrianto Portfolio</a>
+Visit my portfolio at : <a href="https://wahyufebrianto.vercel.app/" target="_blank">Alex Yu Portfolio</a>
 <br>
 
 <!-- <img align="right" alt="photo" src="https://wahyufebrianto.vercel.app/_nuxt/img/photo.09824ed.png" height="350px"/> -->
