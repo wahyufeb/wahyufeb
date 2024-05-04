@@ -1,4 +1,4 @@
-## Sawadee Krab 🙏, I'm Wahyu Febrianto! 
+## Sawadee Krab 🙏, I'm Yuthanakorn Voravit Nuanchan aka. Alex Yu! 
 <!-- <img src="https://image.flaticon.com/icons/png/512/2151/2151329.png" width="32px"/> -->
 
 <!-- <a href='https://www.linkedin.com/in/wahyufebrianto/'>
